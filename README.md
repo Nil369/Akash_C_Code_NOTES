@@ -224,6 +224,7 @@ Rules for naming identifier-
 <p><b>These are some of the foundational concepts in the C programming language. Understanding these concepts is crucial for writing effective and efficient C programs.</b></p>
 
 <hr><br>
+
 # C Programming Language Quick Reference
 
 Welcome to the C Programming Language Quick Reference! This README.md file serves as a concise guide to important topics in C programming, providing simple code examples with comments for better understanding.
