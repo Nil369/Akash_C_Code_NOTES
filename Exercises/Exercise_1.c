@@ -31,7 +31,20 @@ int main(){
     printf("%d X 9=%d\n",a,a*9);
     printf("%d X 10=%d\n",a, a*10);
 
-    //ii) Using Loops: 
+    
+    //ii) USING LOOPS: 
+    
+	int table;
+	printf("\nEnter the number you want multiplication table of : ");
+	scanf("%d", &table);
 
+	printf("Multiplication table of %d is as follows:\n\n", table);
+
+	for (int i =1; i<=10; i++)
+	{
+		printf("%d*%d = %d\n", table, i, table*i );
+	}
+	
+	
     return 0;
 }
