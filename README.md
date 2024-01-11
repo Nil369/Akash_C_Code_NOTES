@@ -1,3 +1,6 @@
+<img src="https://github.com/Nil369/My-C_Code_NOTES/assets/148447931/1a952c71-bd90-4a92-875a-f7965838e35f" alt="image" width="1100" height="300">
+
+
 # C_Notes
 
 These are my C crisp notes revising them will be very benefitial. But for clear understanding of each & every concept refer my souce code based notes
