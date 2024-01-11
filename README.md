@@ -62,11 +62,11 @@ These are my C crisp notes revising them will be very benefitial. But for clear 
 They add functionalities to a program.
 One example could be,
 </p>
-'''
+```
 #include<stdio.h>
 #include<conio.h>
 # include<math.h>
-  '''
+```
 <p>We include math.h to be able to use some special functions like power and absolute. #include<filename.h> is how we include them into our programs.
 Detailed explanations of everything else in the structure will follow in the later part of the tutorial.</p>
 
