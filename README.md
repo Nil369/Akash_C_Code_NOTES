@@ -62,7 +62,11 @@ These are my C crisp notes revising them will be very benefitial. But for clear 
 They add functionalities to a program.
 One example could be,
 </p>
-<div class="code-toolbar"><pre class="language-c" tabindex="0"><code class="language-c"><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span> <span class="token string">&lt;math.h&gt;</span></span></code></pre><div class="toolbar"><div class="toolbar-item"><button class="copy-to-clipboard-button" type="button" data-copy-state="copy"></button></div></div></div>
+'''
+#include<stdio.h>
+#include<conio.h>
+# include<math.h>
+  '''
 <p>We include math.h to be able to use some special functions like power and absolute. #include<filename.h> is how we include them into our programs.
 Detailed explanations of everything else in the structure will follow in the later part of the tutorial.</p>
 
