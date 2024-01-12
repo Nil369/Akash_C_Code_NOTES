@@ -1,5 +1,5 @@
 // 1D ARRAY SAMPLE PROGRAM : 
-/*
+
 #include<stdio.h>
 
 int main()
@@ -32,7 +32,7 @@ int main()
     // Return 0 to indicate successful completion of the program
     return 0;
 }
-*/
+
 
 // 2D ARRAY SAMPLE PROGRAM : 
 
