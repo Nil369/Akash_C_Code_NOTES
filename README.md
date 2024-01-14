@@ -2,6 +2,7 @@
 
 
 # C_Notes
+## Author : Akash Halder
 
 These are my C crisp notes revising them will be very benefitial. But for clear understanding of each & every concept refer my souce code based notes
 
