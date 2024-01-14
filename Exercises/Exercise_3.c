@@ -43,3 +43,11 @@ int main()
 }
 
 //Here we can clearly see that for fibonacci Series Iterative Approach is better than recursive...But Why??
+
+/*
+    This is because Recursion means function that it always calls itself...For this simple addition
+    It breaks itself into different small part until it finds its base value.
+    Since there are so many calls It takes much more time to execute than the Iterative method.
+    Thus Recursive method is not always good
+
+*/
