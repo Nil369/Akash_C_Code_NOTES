@@ -13,7 +13,7 @@ void printStr(char str[])
 int main()
 {
     // char str[] = {'a', 'a', 'k', 's', 'h', '\0'};
-    // char str[6] = "harry";
+    // char str[6] = "aakash";
     char str[34];
     gets(str);
     printf("Using custom function printStr\n");
