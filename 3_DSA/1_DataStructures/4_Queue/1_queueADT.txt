@@ -1,0 +1,15 @@
+A Queue is an abstract data type (ADT) that represents a collection of elements. 
+It follows the First In, First Out (FIFO) principle, meaning that the element
+that is inserted first is the one that gets removed first.
+
+    Queues are widely used in scenarios such as scheduling processes, managing tasks, 
+    and handling requests in a sequential manner.
+
+
+
+✅ Basic Operations of a Queue:
+🔵Enqueue: Adds an element to the end of the queue.
+🔵Dequeue: Removes the element from the front of the queue.
+🔵Peek/Front: Retrieves the element at the front of the queue without removing it.
+🔵IsEmpty: Checks if the queue is empty.
+🔵IsFull: Checks if the queue is full (used in fixed-size implementations).
