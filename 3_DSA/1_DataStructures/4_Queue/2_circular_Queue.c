@@ -37,6 +37,7 @@ void enqueue(struct CircularQueue* q, int value) {
     if (isEmpty(q)) {
         q->front = 0;
     }
+    // Circular Increment Formula
     q->rear = (q->rear + 1) % SIZE;
     q->items[q->rear] = value;
     printf("%d enqueued to queue\n", value);
