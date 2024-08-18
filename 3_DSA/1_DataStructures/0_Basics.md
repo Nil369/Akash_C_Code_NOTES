@@ -1,11 +1,11 @@
-Let's break down these computer science concepts in a simple and easy-to-understand way:
-
-### 1. **Basic Terminologies**
+# 1. **Basic Terminologies**
    - **Data Structure**: A way to organize and store data in a computer so it can be used efficiently.
    - **Algorithm**: A step-by-step procedure or formula for solving a problem.
    - **Complexity**: A measure of how much time and space an algorithm takes to run.
 
 ### 2. **Types of Data Structures**
+![image](https://github.com/user-attachments/assets/60daef1e-f08d-4725-b998-3d9c331b6899)
+
    - **Primitive Data Structures**: Basic data types like integers, floats, characters, etc.
    - **Non-Primitive Data Structures**: More complex structures that use primitive types, like:
      - **Arrays**: A collection of elements stored at contiguous memory locations.
